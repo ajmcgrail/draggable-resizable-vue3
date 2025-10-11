@@ -39,5 +39,6 @@
   ],
   "main": "src/index.js",
   "module": "src/index.js",
-  "unpkg": "src/index.js"
+  "unpkg": "src/index.js",
+  "packageManager": "yarn@4.10.3"
 }
